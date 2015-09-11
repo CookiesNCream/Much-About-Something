@@ -1,5 +1,5 @@
-Coffee, Cake, and Conversations
-=======================
+Coffee :coffee:, Cake :cake:, and Conversations :telephone:
+===========================================================
 
 Motivation
 ==========
