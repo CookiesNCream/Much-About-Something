@@ -1,4 +1,5 @@
 # Coffee :coffee:, Cake :cake:, and Conversations :telephone:
+Welcome!
 
 # Motivation
 
