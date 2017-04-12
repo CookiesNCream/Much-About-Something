@@ -4,7 +4,7 @@ Welcome!
 
 # Motivation
 
-To share my tech stories and experiences.
+To share my tech stories and experiences accumulated over the years...
 
 # License
 
