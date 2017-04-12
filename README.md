@@ -1,7 +1,10 @@
 # Coffee :coffee:, Cake :cake:, and Conversations :calling:
+
 Welcome!
 
 # Motivation
+
+To share my tech stories.
 
 # License
 
