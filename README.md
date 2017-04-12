@@ -5,4 +5,4 @@ Welcome!
 
 # License
 
-[See LICENSE](https://github.com/CookiesNCream/Coffee-Cake-Conversations/blob/master/LICENSE.md)
+[See LICENSE](https://github.com/CookiesNCream/Coffee-Cake-Conversations/blob/master/LICENSE1.md)
