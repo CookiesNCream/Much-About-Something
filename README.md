@@ -1,10 +1,10 @@
-# Coffee :coffee:, Cake :cake:, and Conversations :speech_balloon:
+# Much About Something
 
-Welcome!
+Yea, indeed.
 
 # Motivation
 
-To share my tech stories and experiences accumulated over the years...
+A collection of my professional experience and scenarios
 
 # License
 
